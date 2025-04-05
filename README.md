@@ -1,6 +1,6 @@
 # Sustainable Development Goals (SDG) Analysis for African Nations
 
-### Dashboard Link : 
+### Dashboard Link: https://github.com/Shreyash-Sheth/Sustainable-Development-Goals-SDG-Analysis-for-African-Nations/blob/main/Tableau%20Dashboard.twb
 
 ## Problem Statement
 Ubuntu (fictitious), an NGO operating in Africa, needed to assess the progress of the 10 most populous African countries (Congo, Algeria, Sudan, Egypt, Ethiopia, Nigeria, Kenya, South Africa, Tanzania, Uganda) in achieving key Sustainable Development Goals (SDGs) related to:
